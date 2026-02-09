@@ -1,0 +1,81 @@
+[2026-02-08 13:41:33] === EJECUCIÓN INICIADA ===
+[2026-02-08 13:41:33] Directorio actual: C:\Users\Miguel\Documents\Prueba_Tecnica\Framework\PIX\script
+[2026-02-08 13:41:33] Iniciando proceso de subida a OneDrive
+[2026-02-08 13:41:33] Buscando archivos .xlsx...
+[2026-02-08 13:41:33] No se encontró ningún archivo con formato válido.
+[2026-02-08 13:41:33] === EJECUCIÓN FINALIZADA ===
+[2026-02-08 13:44:54] === EJECUCIÓN INICIADA ===
+[2026-02-08 13:44:54] Directorio actual: C:\Users\Miguel\Documents\Prueba_Tecnica\Framework\PIX\script
+[2026-02-08 13:44:54] Iniciando proceso de subida a OneDrive
+[2026-02-08 13:44:54] Buscando archivos .xlsx...
+[2026-02-08 13:44:54] No se encontró ningún archivo con formato válido.
+[2026-02-08 13:44:54] === EJECUCIÓN FINALIZADA ===
+[2026-02-08 13:48:58] === EJECUCIÓN INICIADA ===
+[2026-02-08 13:48:58] Directorio actual (cwd): C:\Users\Miguel\Documents\Prueba_Tecnica\Framework\PIX\script
+[2026-02-08 13:48:58] Iniciando proceso de subida a OneDrive
+[2026-02-08 13:48:58] Buscando archivos .xlsx...
+[2026-02-08 13:48:58] Directorio script: C:\Users\Miguel\Documents\Prueba_Tecnica\Framework\PIX\script
+[2026-02-08 13:48:58] Directorio base detectado: C:\Users\Miguel\Documents\Prueba_Tecnica
+[2026-02-08 13:48:58] Ruta RPA detectada: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA
+[2026-02-08 13:48:58] Excel encontrados: ['C:\\Users\\Miguel\\Documents\\Prueba_Tecnica\\RPA\\Reporte_2026-02-06.xlsx']
+[2026-02-08 13:48:58] Archivo más reciente detectado: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA\Reporte_2026-02-06.xlsx
+[2026-02-08 13:48:58] Iniciando autenticación...
+[2026-02-08 13:48:59] URL: https://microsoft.com/devicelogin | Código: AA98VSXUW
+[2026-02-08 13:53:48] Autenticación completada con éxito.
+[2026-02-08 13:53:48] Verificando conexión a OneDrive...
+[2026-02-08 13:53:49] Conexión a OneDrive exitosa.
+[2026-02-08 13:53:49] Subiendo archivo: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA\Reporte_2026-02-06.xlsx
+[2026-02-08 13:53:51] Archivo subido correctamente: Reporte_2026-02-06.xlsx
+[2026-02-08 13:53:51] Proceso completado exitosamente.
+[2026-02-08 13:53:51] === EJECUCIÓN FINALIZADA ===
+[2026-02-08 14:55:42] === EJECUCIÓN INICIADA ===
+[2026-02-08 14:55:42] Directorio actual (cwd): C:\Users\Miguel\Documents\Prueba_Tecnica\Framework\PIX\script
+[2026-02-08 14:55:42] Iniciando proceso de subida a OneDrive
+[2026-02-08 14:55:42] Buscando archivos .xlsx...
+[2026-02-08 14:55:42] Directorio script: C:\Users\Miguel\Documents\Prueba_Tecnica\Framework\PIX\script
+[2026-02-08 14:55:42] Directorio base detectado: C:\Users\Miguel\Documents\Prueba_Tecnica
+[2026-02-08 14:55:42] Ruta RPA detectada: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA
+[2026-02-08 14:55:42] Excel encontrados: ['C:\\Users\\Miguel\\Documents\\Prueba_Tecnica\\RPA\\Reporte_2026-02-06.xlsx', 'C:\\Users\\Miguel\\Documents\\Prueba_Tecnica\\RPA\\Reporte_2026-02-08.xlsx']
+[2026-02-08 14:55:42] Archivo más reciente detectado: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA\Reporte_2026-02-08.xlsx
+[2026-02-08 14:55:42] Intentando renovar token...
+[2026-02-08 14:55:43] Token renovado correctamente.
+[2026-02-08 14:55:43] Verificando conexión a OneDrive...
+[2026-02-08 14:55:45] Conexión a OneDrive exitosa.
+[2026-02-08 14:55:45] Subiendo archivo: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA\Reporte_2026-02-08.xlsx
+[2026-02-08 14:55:46] Archivo subido correctamente: Reporte_2026-02-08.xlsx
+[2026-02-08 14:55:46] Proceso completado exitosamente.
+[2026-02-08 14:55:46] === EJECUCIÓN FINALIZADA ===
+[2026-02-08 15:22:42] === EJECUCIÓN INICIADA ===
+[2026-02-08 15:22:42] Directorio actual (cwd): C:\Users\Miguel\Documents\Prueba_Tecnica\Framework\PIX\script
+[2026-02-08 15:22:42] Iniciando proceso de subida a OneDrive
+[2026-02-08 15:22:42] Buscando archivos .xlsx...
+[2026-02-08 15:22:42] Directorio script: C:\Users\Miguel\Documents\Prueba_Tecnica\Framework\PIX\script
+[2026-02-08 15:22:42] Directorio base detectado: C:\Users\Miguel\Documents\Prueba_Tecnica
+[2026-02-08 15:22:42] Ruta RPA detectada: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA
+[2026-02-08 15:22:42] Excel encontrados: ['C:\\Users\\Miguel\\Documents\\Prueba_Tecnica\\RPA\\Reporte_2026-02-08.xlsx']
+[2026-02-08 15:22:42] Archivo más reciente detectado: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA\Reporte_2026-02-08.xlsx
+[2026-02-08 15:22:42] Intentando renovar token...
+[2026-02-08 15:22:43] Token renovado correctamente.
+[2026-02-08 15:22:43] Verificando conexión a OneDrive...
+[2026-02-08 15:22:45] Conexión a OneDrive exitosa.
+[2026-02-08 15:22:45] Subiendo archivo: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA\Reporte_2026-02-08.xlsx
+[2026-02-08 15:22:46] Archivo subido correctamente: Reporte_2026-02-08.xlsx
+[2026-02-08 15:22:46] Proceso completado exitosamente.
+[2026-02-08 15:22:46] === EJECUCIÓN FINALIZADA ===
+[2026-02-08 22:15:28] === EJECUCIÓN INICIADA ===
+[2026-02-08 22:15:28] Directorio actual (cwd): C:\Users\Miguel\Documents\Prueba_Tecnica\Framework\PIX\script
+[2026-02-08 22:15:28] Iniciando proceso de subida a OneDrive
+[2026-02-08 22:15:28] Buscando archivos .xlsx...
+[2026-02-08 22:15:28] Directorio script: C:\Users\Miguel\Documents\Prueba_Tecnica\Framework\PIX\script
+[2026-02-08 22:15:28] Directorio base detectado: C:\Users\Miguel\Documents\Prueba_Tecnica
+[2026-02-08 22:15:28] Ruta RPA detectada: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA
+[2026-02-08 22:15:28] Excel encontrados: ['C:\\Users\\Miguel\\Documents\\Prueba_Tecnica\\RPA\\Reporte_2026-02-08.xlsx']
+[2026-02-08 22:15:28] Archivo más reciente detectado: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA\Reporte_2026-02-08.xlsx
+[2026-02-08 22:15:28] Intentando renovar token...
+[2026-02-08 22:15:29] Token renovado correctamente.
+[2026-02-08 22:15:29] Verificando conexión a OneDrive...
+[2026-02-08 22:15:30] Conexión a OneDrive exitosa.
+[2026-02-08 22:15:30] Subiendo archivo: C:\Users\Miguel\Documents\Prueba_Tecnica\RPA\Reporte_2026-02-08.xlsx
+[2026-02-08 22:15:31] Archivo subido correctamente: Reporte_2026-02-08.xlsx
+[2026-02-08 22:15:31] Proceso completado exitosamente.
+[2026-02-08 22:15:31] === EJECUCIÓN FINALIZADA ===
